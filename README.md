@@ -5,9 +5,7 @@ A blueprint to wipe all defenders after an objective or an group of objectives g
 Material code to change the color of a texture using a mask
 ![image](https://github.com/DarkAt26/PavlovVR-RandomBlueprintCollection/assets/84019236/9dd067b7-320f-453e-8be4-17e171cf55a2)
 https://blueprintue.com/blueprint/tev1uwiv/
-![video]https://www.youtube.com/watch?v=Ob19WJt87Mc
-https://youtu.be/Ob19WJt87Mc
-[(https://img.youtube.com/vi/Ob19WJt87Mc/0.jpg)](https://www.youtube.com/watch?v=Ob19WJt87Mc)
+[![Video](https://img.youtube.com/vi/Ob19WJt87Mc/0.jpg)](https://www.youtube.com/watch?v=Ob19WJt87Mc)
 
 
 # JsonCurveCreator
