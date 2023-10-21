@@ -1,6 +1,8 @@
 # PavlovVR-PushDefenderWipe
 A blueprint to wipe all defenders after an objective or an group of objectives got captured/destroyed.
 
+
+
 # M_ChangeTextureColorByMask
 Material code to change the color of a texture using a mask
 ### BlueprintUE
@@ -8,8 +10,12 @@ Material code to change the color of a texture using a mask
 ### Video Example
 [![video](https://img.youtube.com/vi/Ob19WJt87Mc/0.jpg)](https://www.youtube.com/watch?v=Ob19WJt87Mc)
 
+
+
 # JsonCurveCreator
 Converts a minified JSON string into a unreal engine curve data
+
+
 
 # BP_SafeZoneVolume
 1. Players can't shoot <sup>Bool</sup>
@@ -17,4 +23,4 @@ Converts a minified JSON string into a unreal engine curve data
 3. Bullets get deleted <sup>Bool</sup>
 4. Vehicles can't be damaged <sup>Bool</sup>
 
-<br>inside the SafeZoneVolume
+inside the SafeZoneVolume
