@@ -16,4 +16,4 @@ Converts a minified JSON string into a unreal engine curve data
 2. Players can't be damaged <sup>Bool</sup>
 3. Bullets get deleted <sup>Bool</sup>
 4. Vehicles can't be damaged <sup>Bool</sup>
-<br> inside the SafeZoneVolume
+<br>inside the SafeZoneVolume
