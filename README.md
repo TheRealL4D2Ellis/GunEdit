@@ -12,3 +12,8 @@ Material code to change the color of a texture using a mask
 Converts a minified JSON string into a unreal engine curve data
 
 # BP_SafeZoneVolume
+1. Players can't shoot
+2. Players can't be damaged
+3. Bullets get deleted
+4. Vehicles can't be damaged
+inside the SafeZoneVolume
