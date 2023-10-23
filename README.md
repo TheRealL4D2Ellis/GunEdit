@@ -1,6 +1,6 @@
 # PavlovVR-PushDefenderWipe
 A blueprint to wipe all defenders after an objective or an group of objectives got captured/destroyed.
-
+-Folders have dependencies, single files outside of the folders dont
 
 
 # M_ChangeTextureColorByMask
