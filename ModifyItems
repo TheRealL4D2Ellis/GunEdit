@@ -1,0 +1,62 @@
+{
+  "DisabledItems": [
+    "ak47",
+    "m9"
+  ],
+  "AddGuns": [
+    {
+      "GunName": "mk17_v3",
+      "GunClass": "/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1000,
+        "Image": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 100,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    }
+  ],
+  "AddItems": [
+    {
+      "ItemName": "mk17_hello",
+      "ItemClass": "/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 100,
+        "Image": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat"
+      }
+    }
+  ],
+  "UpdateDetails": [
+    {
+      "GunName": "mk17_v3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1212
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 1,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    }
+  ]
+}
