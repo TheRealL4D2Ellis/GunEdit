@@ -8,7 +8,7 @@
       "GunName": "mk17_v3",
       "GunClass": "/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C",
       "BuyMenu": {
-        "Category": 0,
+        "Category": 2,
         "TeamId": -1,
         "Cost": 1000,
         "Image": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat"
@@ -31,7 +31,7 @@
       "ItemName": "mk17_hello",
       "ItemClass": "/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C",
       "BuyMenu": {
-        "Category": 0,
+        "Category": 4,
         "TeamId": -1,
         "Cost": 100,
         "Image": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat"
