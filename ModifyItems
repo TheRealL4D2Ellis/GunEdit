@@ -1,16 +1,28 @@
 {
   "DisabledItems": [
-    "scur"
+    "tark_vityaz",
+	"tark_stm9",
+	"tark_vepr",
+	"tark_m1a",
+	"tark_sag",
+	"tark_tx15",
+	"tark_rfb",
+	"tark_svt40",
+	"tark_mdr308",
+	"tark_ash12",
+	"tark_velociraptor",
+	"tark_ak308",
+	"tark_nl545",
+	"tark_mutant",
+	"tark_g36",
+	"tark_m16a2",
+	"tark_m4a1",
+	"tark_spear",
+	"tark_tkpd",
+	"tark_vpo215",
+	"tark_mosincar",
+	"tark_m10",
+	"tark_toz106",
+	"tark_m60e6"
   ],
-  "DisabledItems": [
-  ],
-  "UpdateDetails": [
-    {
-      "GunName": "ak47",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-      },
-    }
-  ]
 }
