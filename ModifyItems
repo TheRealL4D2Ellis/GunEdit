@@ -25,4 +25,25 @@
 	"tark_toz106",
 	"tark_m60e6"
   ],
+  "UpdateDetails": [
+    {
+      "GunName": "webley",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 3000
+      },
+      "MagazineCount": 30,
+      "KillBonus": 100,
+      "BaseDamage": 1,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    }
+  ]
 }
