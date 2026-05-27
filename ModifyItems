@@ -1,13 +1,37 @@
 {
   "DisabledItems": [
-    "tark_vityaz",
+    "57",
+	"ak",
+	"ak12",
+	"ak47",
+	"akshorty",
+	"ar",
+	"ar9",
+	"aug",
+	"awp",
+	"m16",
+	"lmga",
+	"kross"
+	"mp5",
+	"shotgun",
+	"scur",
+	"sks",
+	"tark_ak74",
+	"tark_ak12",
+	"tark_pm",
+	"tark_rhino200ds",
+	"tark_mts255",
+	"tark_m590a1",
+	"tark_vityaz",
 	"tark_stm9",
-	"tark_vepr",
+	"tark_opsks",
 	"tark_m1a",
 	"tark_sag",
+	"tark_rsass",
 	"tark_tx15",
 	"tark_rfb",
 	"tark_svt40",
+	"tark_svds",
 	"tark_mdr308",
 	"tark_ash12",
 	"tark_velociraptor",
@@ -20,8 +44,8 @@
 	"tark_spear",
 	"tark_tkpd",
 	"tark_vpo215",
-	"tark_mosincar",
 	"tark_m10",
+	"tark_sv98",
 	"tark_toz106",
 	"tark_m60e6"
   ],
@@ -44,6 +68,44 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
-    }
+    },
+	{
+      "GunName": "tark_aa12gen2",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 3200
+      },
+      "MagazineCount": 100,
+      "KillBonus": 10,
+      "BaseDamage": 40,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 0.9,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 1000
+    },
+	{
+      "GunName": "tark_mp43",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 3200
+      },
+      "MagazineCount": 2,
+      "KillBonus": 100,
+      "BaseDamage": 70,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 0.9,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 2000
+    },
   ]
 }
