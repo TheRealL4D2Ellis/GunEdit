@@ -13,6 +13,14 @@
 	"lmga",
 	"kross",
 	"mp5",
+	"smg",
+	"p90",
+	"ar9",
+	"p90",
+	"vanas",
+	"de",
+	"sock",
+	"m9",
 	"shotgun",
 	"scur",
 	"sks",
@@ -70,34 +78,15 @@
       "MaxFalloffDist": 4000
     },
 	{
-      "GunName": "tark_aa12gen2",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 3200
-      },
-      "MagazineCount": 100,
-      "KillBonus": 10,
-      "BaseDamage": 1000,
-      "ArmourDamage": 100,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 1000
-    },
-	{
       "GunName": "tark_mp43",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 3200
       },
-      "MagazineCount": 2,
-      "KillBonus": 100,
-      "BaseDamage": 70,
+      "MagazineCount": 100,
+      "Cost": 1200,
+      "KillBonus": 50,
+      "BaseDamage": 40,
       "ArmourDamage": 100,
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
@@ -105,7 +94,26 @@
       "GunPenetration": 100,
       "FalloddModifier": 0.9,
       "MinFalloffDist": 1000,
-      "MaxFalloffDist": 2000
+      "MaxFalloffDist": 2500
+    },
+	{
+      "GunName": "tark_aa12gen2",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 3200
+      },
+      "MagazineCount": 60,
+      "KillBonus": 50,
+      "BaseDamage": 30,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 0.8,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 1000
     }
   ]
 }
