@@ -87,14 +87,14 @@
       "Cost": 1200,
       "KillBonus": 50,
       "BaseDamage": 20,
-      "ArmourDamage": 100,
-      "ArmourPenetration": 100,
+      "ArmourDamage": 50,
+      "ArmourPenetration": 50,
       "HelmetDamage": 100,
-      "HelmetBleed": 100,
+      "HelmetBleed": 90,
       "GunPenetration": 100,
-      "FalloddModifier": 0.8,
+      "FalloddModifier": 0.75,
       "MinFalloffDist": 750,
-      "MaxFalloffDist": 1500
+      "MaxFalloffDist": 1000
     },
 	{
       "GunName": "tark_aa12gen2",
@@ -105,14 +105,13 @@
       },
       "MagazineCount": 60,
       "KillBonus": 50,
-      "BaseDamage": 20,
-      "ArmourDamage": 100,
-      "ArmourPenetration": 100,
+      "ArmourDamage": 50,
+      "ArmourPenetration": 50,
       "HelmetDamage": 100,
-      "HelmetBleed": 100,
+      "HelmetBleed": 90,
       "GunPenetration": 100,
-      "FalloddModifier": 0.8,
-      "MinFalloffDist": 750,
+      "FalloddModifier": 0.75,
+      "MinFalloffDist": 500,
       "MaxFalloffDist": 1000
     }
   ]
